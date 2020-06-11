@@ -1,7 +1,7 @@
-from C:\Python27\APA_files\fib_number_list.py import fib
+from fib_number_list import fib
 
 __author__ = 'apa'
 
-n = 100
+n = 50
 
 fib(n)
