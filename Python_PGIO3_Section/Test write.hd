@@ -1,0 +1,26 @@
+123
+Collected with SpiView v1.1.24
+                    
+2018-Nov-1
+NUMBER OF TRACES   = 102
+NUMBER OF PTS/TRC  = 300
+TIMEZERO AT POINT  = 51.000
+TOTAL TIME WINDOW  = 15.000
+STARTING POSITION  = -0.1225
+FINAL POSITION     = 9.9775
+STEP SIZE USED     = 0.1000
+POSITION UNITS     = 
+NOMINAL FREQUENCY  = 1000.00
+ANTENNA SEPARATION = 0.2450
+PULSER VOLTAGE (V) = 165.00
+NUMBER OF STACKS   = 16
+SURVEY MODE        = Reflectio
+DATA TYPE          = F*4
+STACKING TYPE      = F1, P16, DynaQ OF
+TRIGGER MODE       = 1
+TRACEHEADERDEF_26  = ORIEN
+TX SERIAL #        = 00001031E00
+RX SERIAL #        = 00001031E00
+Processing         = Restore poin
+Processing         = RepickFB(trp=5,tra=8 mV,trans=both,s=yes
+test adding a comment
